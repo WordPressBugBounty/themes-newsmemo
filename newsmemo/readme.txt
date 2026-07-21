@@ -3,7 +3,7 @@ Contributors: DesertThemes
 Requires at least: 4.7
 Tested up to: 7.0
 Requires PHP: 7.0
-Stable tag: 1.0.10
+Stable tag: 1.0.11
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, e-commerce, entertainment, grid-layout, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-logo, custom-menu, featured-images, featured-image-header, flexible-header, post-formats, rtl-language-support, translation-ready, theme-options, threaded-comments, footer-widgets
@@ -68,6 +68,9 @@ Source: https://github.com/WPTRT/code-examples
 License: Creative Commons Zero, CC0 Public Domain
 
 == Changelog ==
+
+@version 1.0.11
+* Tested - By WordPress 7.0.2  
 
 @version 1.0.10
 * Style improvements - Product Title 
